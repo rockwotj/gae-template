@@ -1,0 +1,4 @@
+cron:
+  - description: Test
+    url: /tasks/test
+    schedule: every 1 minutes synchronized
